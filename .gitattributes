@@ -1,1 +1,2 @@
-*LabVIEW linguist-detectable=true
+* linguist-vendored
+*.lvlib linguist-vendored=false
